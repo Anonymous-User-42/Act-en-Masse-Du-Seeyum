@@ -34,7 +34,6 @@ def question1():
         money = money+1000000
   print ("This is the amount of money you have",money)
   return retake
-  return money
                       
                     
         
